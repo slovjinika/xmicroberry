@@ -1,0 +1,21 @@
+! xmicroberry 0.02.20260201
+! X11 Teal #008080
+! Solaris #b24d7a Background #574c8f #aeb2c3
+! Rosabell Pink #B52F62
+! X11 Medium Violet Red #C71585
+! X11 Steel Blue #4682B4
+! Background: xsetroot -solid "#4682B4"
+
+*.color:			White
+*.bg.color:			Teal
+*.active.*.bg.color:		#b24d7a
+osd.hilight.bg.color:		#b24d7a
+
+*.bg:				Flat
+border.width:			1
+padding.width:			1
+padding.height:			1
+window.handle.width:		3
+window.client.padding.width:	0
+
+
